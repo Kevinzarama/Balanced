@@ -15,6 +15,7 @@ public class Main {
 	public Main() throws NumberFormatException, IOException {
 		s = new Stack<String>();
 		read();
+		//
 	}
 	
 	public void read() throws NumberFormatException, IOException {
